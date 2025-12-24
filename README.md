@@ -56,3 +56,9 @@ CWC was designed to simulate a real-world social platform while focusing on:
 
 This project is a functional prototype and learning-driven system,
 focused on architecture and core social features.
+
+🧪 How to Run Locally
+
+Clone the repository git clone https://github.com/RoniTwito08/CWC---content-with-coffee.git 
+Setup Backend + Frontend : npm run dev .
+ 
